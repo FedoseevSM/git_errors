@@ -1,4 +1,4 @@
-# git-bash_commands
+# git_errors
 
 It's not a Git error message, it's the editor as git uses your default editor.
 
